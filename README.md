@@ -11,5 +11,4 @@ To show the effectiveness of FSL, we implement FSL on an in-house embedded test 
 - FSL_Minicom: Time check feature is added
 
 ## Acknowledgment
-This work was supported by IT R&D program MKE/KEIT.
-(No. 10041608, Embedded System Software for New-memory based Smart Device)
+This work was supported by IT R&D program MKE/KEIT (No. 10041608, Embedded System Software for New-memory based Smart Device).
