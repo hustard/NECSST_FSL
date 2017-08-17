@@ -1,0 +1,6 @@
+image: {
+		   [bootloader]FSBL.elf
+		   system_top.bit
+		   u-boot.elf
+	   }
+
